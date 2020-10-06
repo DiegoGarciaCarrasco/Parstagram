@@ -19,8 +19,8 @@
 		6A4280B52526EFF700230795 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A4280B42526EFF700230795 /* FeedViewController.swift */; };
 		6A4280B72526F7DE00230795 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A4280B62526F7DE00230795 /* CameraViewController.swift */; };
 		6A4A34702529A7950095F7B7 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A4A346F2529A7950095F7B7 /* PostCell.swift */; };
+		9E4A9935DBDEE7EAEA95CD21 /* Pods_Parstagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E62A49896828B711E40925FF /* Pods_Parstagram.framework */; };
 		C892E5F5BE03C94C4997DEDC /* Pods_ParstagramTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F126FC610C54F02F30AF4C9E /* Pods_ParstagramTests.framework */; };
-		D26A152CFFA9E621630E0983 /* Pods_Parstagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E62A49896828B711E40925FF /* Pods_Parstagram.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D26A152CFFA9E621630E0983 /* Pods_Parstagram.framework in Frameworks */,
+				9E4A9935DBDEE7EAEA95CD21 /* Pods_Parstagram.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
