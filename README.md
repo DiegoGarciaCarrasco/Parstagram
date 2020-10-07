@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 - User can view comments on a post.
 - User can add a new comment.
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='http://g.recordit.co/EtsgLPsI3t.gif' width='' alt='Video Walkthrough' />
 ---
 
 # Parstagram - Part I
