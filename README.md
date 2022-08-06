@@ -1,3 +1,8 @@
+# Parstagram
+
+A read-write Instagram-style app built from the ground up using a custom configured backend.
+
+
 # Parstagram - Part II
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
@@ -22,13 +27,12 @@ The following **bonus** features can be implemented:
 
 Here's a walkthrough of implemented user stories:
 
-- User stays logged in across restarts.
-- User can log out.
+- User stays logged in across restarts & User can log out:
 
 <img src='http://g.recordit.co/QCcXJs9eSe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-- User can view comments on a post.
-- User can add a new comment.
+
+- User can view comments on a post & User can add a new comment:
 
 <img src='http://g.recordit.co/EtsgLPsI3t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -36,7 +40,7 @@ Here's a walkthrough of implemented user stories:
 ---
 
 
-# Parstagram - Part I
+## Parstagram - Part I
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
