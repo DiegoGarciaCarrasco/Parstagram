@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [x] User can view comments on a post.
 - [x] User can add a new comment.
 
-The following **bonus** features are implemented:
+The following **bonus** features can be implemented:
 
 - [ ] User can add a profile picture.
 - [ ] Profile pictures are shown for posts and comments.
@@ -52,7 +52,7 @@ The following **required** functionality is completed:
 - [x] User can take a photo, add a caption, and post it to the server.
 - [x] User can view the last 20 posts.
 
-The following **bonus** features are implemented:
+The following **bonus** features can be implemented:
 
 - [ ] User can pull to refresh.
 - [ ] User can load past tweets infinitely.
