@@ -11,7 +11,7 @@ Time spent: **5** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] User stays logged in across restarts.
 - [x] User can log out.
@@ -48,7 +48,7 @@ Time spent: **5** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] User sees app icon in home screen and styled launch screen.
 - [x] User can sign up to create a new account.
@@ -56,7 +56,7 @@ The following **required** functionality is completed:
 - [x] User can take a photo, add a caption, and post it to the server.
 - [x] User can view the last 20 posts.
 
-The following **bonus** features can be implemented:
+The following features can be implemented:
 
 - [ ] User can pull to refresh.
 - [ ] User can load past tweets infinitely.
