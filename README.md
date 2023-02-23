@@ -17,10 +17,12 @@ The following functionality is completed:
 - [x] User can view comments on a post.
 - [x] User can add a new comment.
 
+<!--
 The following features can be implemented:
 
 - [ ] User can add a profile picture.
 - [ ] Profile pictures are shown for posts and comments.
+-->
 
 ## Video Walkthrough
 
