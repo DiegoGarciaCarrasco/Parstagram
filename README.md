@@ -55,10 +55,12 @@ The following functionality is completed:
 - [x] User can take a photo, add a caption, and post it to the server.
 - [x] User can view the last 20 posts.
 
+<!--
 The following features can be implemented:
 
 - [ ] User can pull to refresh.
 - [ ] User can load past tweets infinitely.
+-->
 
 ## Video Walkthrough
 
