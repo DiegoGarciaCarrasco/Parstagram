@@ -29,10 +29,13 @@ The following features can be implemented:
 Here's a walkthrough of implemented user stories:
 
 - User stays logged in across restarts & User can log out:
+
+  
+* **User stays logged in across restarts & User can log out**
 <img src='http://g.recordit.co/QCcXJs9eSe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-- User can view comments on a post & User can add a new comment:
+* **User can view comments on a post & User can add a new comment**
 <img src='http://g.recordit.co/EtsgLPsI3t.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
